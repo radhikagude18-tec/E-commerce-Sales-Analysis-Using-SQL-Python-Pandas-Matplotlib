@@ -1,12 +1,4 @@
-## 📌 Detailed Project Description
 
-This project is an end-to-end **E-commerce Data Analysis** workflow designed to extract insights from multiple relational tables using **SQL** and transform the results into meaningful visualizations using **Python (Pandas & Matplotlib)**.  
-
-The goal of the project is to understand customer behavior, product performance, sales trends, state-wise distribution, and payment insights using a real-world structured dataset.
-
----
-
-## 🔍 What This Project Covers
 
 ### 🟦 1. Database Connection & SQL Queries
 The project begins by connecting to a SQLite database containing e-commerce tables such as:
